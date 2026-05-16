@@ -39,10 +39,10 @@ pip install -r requirements.txt
 streamlit run app.py
 
 GitHub Repository
-
 https://github.com/ElectronicsEternity/ai-file-analyzer
 
 Video Demonstration
+https://youtu.be/LqppFJ5PCYA
 
 A full project walkthrough video demonstrates: - File uploads -
 Encryption workflows - Application structure - Project functionality
